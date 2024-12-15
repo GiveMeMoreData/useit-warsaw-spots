@@ -1,0 +1,2 @@
+# USEIT-Warsaw spots map
+
